@@ -1,0 +1,21 @@
+Improve bizstyle
+===============================================
+
+.. note::
+  test2
+
+.. note::
+  | test
+  | test
+
+.. note::
+
+    .. list-table::
+
+        * - abc
+          - def
+          - efg
+        * - abc
+          - def
+          - efg
+

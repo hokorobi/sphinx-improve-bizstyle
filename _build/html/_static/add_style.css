@@ -1,0 +1,27 @@
+body {
+  font-family: 'Meiryo', 'メイリオ', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
+               'Verdana', sans-serif;
+}
+
+cite, code, tt {
+  font-family: 'Meiryo', 'メイリオ', 'Consolas', 'Deja Vu Sans Mono',
+               'Bitstream Vera Sans Mono', monospace;
+}
+
+pre {
+  font-family: 'Meiryo', 'メイリオ', 'Consolas', 'Deja Vu Sans Mono',
+               'Bitstream Vera Sans Mono', monospace;
+}
+
+div.admonition table {
+  margin: 0.5em 1em 0.5em 1em;
+}
+
+div.admonition div.line-block {
+  margin: 0.5em 1em 0.5em 1em;
+}
+
+td ul.simple {
+  padding-left: 20px;
+}
+
