@@ -17,13 +17,19 @@ line block
 
 .. code-block:: css
 
-  div.admonition div.line-block {
+  div.admonition > div.line-block {
     margin: 0.5em 1em 0.5em 1em;
   }
 
 .. note::
   | test
   | test
+
+.. note::
+  #. hoge
+  #. | fuga
+     | fuga2
+
 
 admonition+table
 ----------------
@@ -69,7 +75,7 @@ code rst
       :header-rows: 1
 
     * - hoge
-    - fuga
+      - fuga
     * - hoge
       - + fuga
         + fuga2

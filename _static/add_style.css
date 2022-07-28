@@ -17,7 +17,7 @@ div.admonition table {
   margin: 0.5em 1em 0.5em 1em;
 }
 
-div.admonition div.line-block {
+div.admonition > div.line-block {
   margin: 0.5em 1em 0.5em 1em;
 }
 
